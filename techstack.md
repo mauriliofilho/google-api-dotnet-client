@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mauriliofilho/google-api-dotnet-client](https://github.com/mauriliofilho/google-api-dotnet-client)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|11/30/23 <br/>Report generated|
+|24<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -137,7 +137,7 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.28|12/04/14|Eyal Peled |Apache-2.0|N/A|
 |[Microsoft.Web.Infrastructure](https://www.nuget.org/Microsoft.Web.Infrastructure)|v1.0.0|12/04/14|Eyal Peled |N/A|N/A|
 |[Microsoft.Web.Xdt](https://www.nuget.org/Microsoft.Web.Xdt)|v1.0.0|09/23/13|Eyal Peled |N/A|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v6.0.6|12/04/14|Eyal Peled |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v6.0.6|12/04/14|Eyal Peled |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[Zlib.Portable](https://www.nuget.org/Zlib.Portable)|v1.10.0|07/22/14|Eyal Peled |N/A|N/A|
 |[log4net](https://www.nuget.org/log4net)|v2.0.3|07/22/14|Eyal Peled |Apache-2.0|[CVE-2018-1285](https://github.com/advisories/GHSA-2cwj-8chv-9pp9) (Critical)|
 
