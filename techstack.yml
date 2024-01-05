@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/google-api-dotnet-client
 report_id: 2d3fe29ba9eae98d221933c0dddedb64
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:50:02+00:00'
+timestamp: '2024-01-05T08:31:24+00:00'
 requested_by: peleyal
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/GoogleApis.Auth.DotNet4.csproj
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/GoogleApis.Auth.DotNet4.csproj
   detection_source: Src/GoogleApis.Auth.DotNet4/GoogleApis.Auth.DotNet4.csproj
   last_updated_by: Eyal Peled
   last_updated_on: 2013-09-25 12:36:41.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.Release/packages.config
   detection_source: Tools/Google.Apis.Release/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-09-27 18:49:15.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client
   detection_source: Repo Metadata
 - name: Moq
   description: The most popular and friendly mocking framework for .NET
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Tests/packages.config
   detection_source: Src/GoogleApis.Auth.Tests/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-02 22:05:59.000000000 Z
@@ -72,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Tests/packages.config
   detection_source: Src/GoogleApis.Auth.Tests/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-07-22 17:44:10.000000000 Z
@@ -83,6 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.Release/packages.config
   detection_source: Tools/Google.Apis.Release/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-09-27 18:49:15.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/GoogleApisClient.sln
   detection_source: GoogleApisClient.sln
   last_updated_by: Eyal Peled
   last_updated_on: 2014-07-28 00:48:05.000000000 Z
@@ -108,7 +116,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13122/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.NuGet.Publisher/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.NuGet.Publisher/packages.config
   detection_source: Tools/Google.Apis.NuGet.Publisher/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-09-23 11:43:17.000000000 Z
@@ -123,7 +131,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13042/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.Release/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.Release/packages.config
   detection_source: Tools/Google.Apis.Release/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-09-27 18:49:15.000000000 Z
@@ -144,6 +152,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12984/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.Release/Resources/Google.Apis.Auth.Mvc.VERSION.nuspec
   detection_source: Tools/Google.Apis.Release/Resources/Google.Apis.Auth.Mvc.VERSION.nuspec
   last_updated_by: "="
   last_updated_on: 2015-04-15 02:10:22.000000000 Z
@@ -157,6 +166,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13813/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.Release/Resources/Google.Apis.Auth.VERSION.nuspec
   detection_source: Tools/Google.Apis.Release/Resources/Google.Apis.Auth.VERSION.nuspec
   last_updated_by: "="
   last_updated_on: 2015-04-15 02:10:22.000000000 Z
@@ -171,7 +181,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12850/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
   detection_source: Src/GoogleApis.Auth.Mvc4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -185,7 +195,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
   detection_source: Src/GoogleApis.Auth.Mvc4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -200,7 +210,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12947/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
   detection_source: Src/GoogleApis.Auth.Mvc4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -215,7 +225,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
   detection_source: Src/GoogleApis.Auth.DotNet4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -229,7 +239,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12917/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
   detection_source: Src/GoogleApis.Auth.DotNet4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -243,7 +253,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
   detection_source: Src/GoogleApis.Auth.DotNet4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -258,7 +268,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
   detection_source: Src/GoogleApis.Auth.DotNet4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -272,7 +282,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.Mvc4/packages.config
   detection_source: Src/GoogleApis.Auth.Mvc4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
@@ -285,7 +295,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13198/default_7bf60c4b32af3c8741e8825972e95cdf35308a6a.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.NuGet.Publisher/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Tools/Google.Apis.NuGet.Publisher/packages.config
   detection_source: Tools/Google.Apis.NuGet.Publisher/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-09-23 11:43:17.000000000 Z
@@ -299,13 +309,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Auth.DotNet4/packages.config
   detection_source: Src/GoogleApis.Auth.DotNet4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-12-04 22:58:13.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -319,7 +335,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13844/default_9392b6bd21074179bfea6d3bfa28b6447ac48306.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.Tests/packages.config
   detection_source: Src/GoogleApis.Tests/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-07-22 17:44:10.000000000 Z
@@ -334,7 +350,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12851/default_a3ccb59f9bc7225d3e241611dc27d0f4cd9875eb.png
-  detection_source_url: github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.DotNet4/packages.config
+  detection_source_url: https://github.com/mauriliofilho/google-api-dotnet-client/blob/master/Src/GoogleApis.DotNet4/packages.config
   detection_source: Src/GoogleApis.DotNet4/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-07-22 17:44:10.000000000 Z
